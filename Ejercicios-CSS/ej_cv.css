@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family: 'Gugi', cursive;
+    background: linear-gradient(to right, cornflowerblue,chocolate);
+}
+div{
+    border: 2px dashed #1f1bff;
+    margin: 10px;
+    padding: 5px 30px;
+    border-radius: 15%;
+    box-shadow: 10px 12px #999999;
+}
+#principal{
+    width: 50px;
+    float: left;
+    border-radius:50%;
+}
+
+div.deco h3{
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 10px 5px #999;
+}
